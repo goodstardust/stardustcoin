@@ -89,4 +89,3 @@ The resulting executables can be found in `build/release/src`.
 ## Donate
 BTC: <br>1Kpqk3BTzFCvyuBZDTbe5Y8o24VA1AQ5Km <br><br>
 ETH: <br>0x29da788fb4a162e97d64cc0ec1817af35fe14ad1 <br><br>
-stardustc: <br>fySNLTUCovtbYGcFMh4e4gcyJ2HZEFDhq9x4Qba3NSatcK87Q7HPM73LCHxydBRTsv8MKk7CPtNRbGmbr3n7DfBi2y6zTTyAv
