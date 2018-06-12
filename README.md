@@ -87,6 +87,6 @@ The resulting executables can be found in `build/release/src`.
 * Building with Clang: it may be possible to use Clang instead of GCC, but this may not work everywhere. To build, run `export CC=clang CXX=clang++` before running `make`.
 
 ## Donate
-BTC: <br>1Kpqk3BTzFCvyuBZDTbe5Y8o24VA1AQ5Km <br><br>
-ETH: <br>0x29da788fb4a162e97d64cc0ec1817af35fe14ad1 <br><br>
-stardustc: <br>fySNLTUCovtbYGcFMh4e4gcyJ2HZEFDhq9x4Qba3NSatcK87Q7HPM73LCHxydBRTsv8MKk7CPtNRbGmbr3n7DfBi2y6zTTyAv
+BTC: <br>19E3c9TnCfC8HDRj8ufEFszpK1QAw52pQV <br><br>
+ETH: <br>0x6993872edcd8b36a0f0d900ec483a413e3ecc187 <br><br>
+stardustc: <br>fyS5TqbAEwCgkzNTuph6gt2o1ySPgGcquWXUYkE6ZhKRGwjkGVPi7YLb2NGXUYuGrbE586cvyRDg1ZC6zGJmpAqo2L9JsJXCr
