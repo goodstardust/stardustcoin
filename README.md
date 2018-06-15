@@ -1,17 +1,17 @@
-![stardustcCoin](https://github.com/stardustccoin/stardustccoin/blob/master/logos/stardustccoin.png "stardustcCoin")
+![stardustcoin](https://github.com/stardustcoin/stardustcoin/blob/master/logos/stardustcoin.png "stardustcoin")
 
-# stardustcCoin(stardustc)
+# stardustcoin(stardustc)
 
 This repo contains daemons for blockchain, payment and wallet service.
 
-## Building stardustcCoin 
+## Building stardustcoin 
 
 ### On Ubuntu 16.04
 
 ```
 sudo apt-get install build-essential libboost-all-dev git cmake
-git clone https://github.com/stardustccoin/stardustccoin.git
-cd stardustccoin
+git clone https://github.com/stardustcoin/stardustcoin.git
+cd stardustcoin
 mkdir build
 cd build
 cmake ..
@@ -30,8 +30,8 @@ cd boost_1_66_0
 ./bootstrap.sh
 ./b2 install
 cd ..
-git clone https://github.com/stardustccoin/stardustccoin.git
-cd stardustccoin
+git clone https://github.com/stardustcoin/stardustcoin.git
+cd stardustcoin
 mkdir build
 cd build
 cmake ..
