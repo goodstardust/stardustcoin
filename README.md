@@ -1,4 +1,4 @@
-![stardustcoin](https://github.com/stardustcoin/stardustcoin/blob/master/logos/stardustcoin.png "stardustcoin")
+![stardustcoin](https://github.com/goodstardust/stardustcoin/blob/master/logo.png "stardustcoin")
 
 # stardustcoin(stardust)
 
