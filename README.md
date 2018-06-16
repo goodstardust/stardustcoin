@@ -1,6 +1,6 @@
 ![stardustcoin](https://github.com/stardustcoin/stardustcoin/blob/master/logos/stardustcoin.png "stardustcoin")
 
-# stardustcoin(stardustc)
+# stardustcoin(stardust)
 
 This repo contains daemons for blockchain, payment and wallet service.
 
