@@ -10,7 +10,7 @@ This repo contains daemons for blockchain, payment and wallet service.
 
 ```
 sudo apt-get install build-essential libboost-all-dev git cmake
-git clone https://github.com/stardustcoin/stardustcoin.git
+git clone https://github.com/goodstardust/stardustcoin.git
 cd stardustcoin
 mkdir build
 cd build
@@ -30,7 +30,7 @@ cd boost_1_66_0
 ./bootstrap.sh
 ./b2 install
 cd ..
-git clone https://github.com/stardustcoin/stardustcoin.git
+git clone https://github.com/goodstardust/stardustcoin.git
 cd stardustcoin
 mkdir build
 cd build
